@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\a8b4a93b985f761c85aff620e5ac334d\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.2] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b45aa2c8a2b2b712f7bdfda950b9182d\jackson-android-networking-1.0.2\AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\e34a22b0325d1a1dfcbe13817c18714e\android-networking-1.0.2\AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0042e6fb7475682a0bba1b08af902915\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\d73be73c8f459616029195b733feb266\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\66c773e8253cbb32f671123d5cb40d7c\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8b56ebfe6b4af25640dcd3149df288bf\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\fb36491c284ea1aad96b3fcfe2acef67\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\42a424bcad3ea1c61c2310ae838e163f\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\f60e27683951c3efa78ed8153ab902da\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\9d4e8711d2a0014ad004fe2098ba2b52\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8eaf01f48ea32d45aaa5772e1518ebfd\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\01cd32ff70afedc32e17d3d2d4be0809\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\6d14ec61eb92daf4b3ab15dd15aff892\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ffc1b337e8155f875c52fafdd4888d03\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\f5fd1d6757f4ab58bb50f7df22032962\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0861ce5c8696e5c38293132841287e4b\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\29c015503b87182c307256cd37f3fa26\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b35b1894a9fce75712add48141b7509e\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\6a54f4382ea3e8400023d048aed682d3\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c722670f70dbae0fb3d6f9779215d702\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c8e43d1bcd7cab8d988b9822f0b6af1f\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ea445ceeecc3e263ef1c7f1f4e61ed2b\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8dc79c452a4889414526a4714b02c0c3\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\cf567101a15e7803e42041fea106d50a\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\e0ac47262719fbaf7797abd63181f1ea\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0fc38805eb116c45231906616b745cd5\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b22ae23f90d66b4a500cda7906655d87\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8eb668fcce87e6a5623b9a5472edaede\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\100c37fba1bb5da58744b823c8c76ab3\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\7ffe9a5cdc00fbb55dc75c77acb65e27\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8461e321568c40b33ecb6e019312d5a9\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\575f4b53105f8c768277e162dcd16d05\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\a8b4a93b985f761c85aff620e5ac334d\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\a8b4a93b985f761c85aff620e5ac334d\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8b56ebfe6b4af25640dcd3149df288bf\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8b56ebfe6b4af25640dcd3149df288bf\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c8e43d1bcd7cab8d988b9822f0b6af1f\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c8e43d1bcd7cab8d988b9822f0b6af1f\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ea445ceeecc3e263ef1c7f1f4e61ed2b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ea445ceeecc3e263ef1c7f1f4e61ed2b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c8e43d1bcd7cab8d988b9822f0b6af1f\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:11:9-42
+	android:icon
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:13:9-40
+activity#id.korev.infoquran.activity.splashscreen.SplashScreenActivity
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:15:13-55
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:14:19-95
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:19:27-74
+activity#id.korev.infoquran.activity.main.MainActivity
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:22:9-23:58
+	android:theme
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:22:19-79
+activity#id.korev.infoquran.activity.detail.DetailActivity
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:24:9-27:92
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:24:19-83
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:25:13-27:81
+	android:value
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml:26:17-63
+uses-sdk
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\a8b4a93b985f761c85aff620e5ac334d\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\a8b4a93b985f761c85aff620e5ac334d\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.2] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b45aa2c8a2b2b712f7bdfda950b9182d\jackson-android-networking-1.0.2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.2] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b45aa2c8a2b2b712f7bdfda950b9182d\jackson-android-networking-1.0.2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\e34a22b0325d1a1dfcbe13817c18714e\android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\e34a22b0325d1a1dfcbe13817c18714e\android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0042e6fb7475682a0bba1b08af902915\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0042e6fb7475682a0bba1b08af902915\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\d73be73c8f459616029195b733feb266\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\d73be73c8f459616029195b733feb266\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\66c773e8253cbb32f671123d5cb40d7c\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\66c773e8253cbb32f671123d5cb40d7c\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8b56ebfe6b4af25640dcd3149df288bf\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8b56ebfe6b4af25640dcd3149df288bf\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\fb36491c284ea1aad96b3fcfe2acef67\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\fb36491c284ea1aad96b3fcfe2acef67\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\42a424bcad3ea1c61c2310ae838e163f\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\42a424bcad3ea1c61c2310ae838e163f\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\f60e27683951c3efa78ed8153ab902da\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\f60e27683951c3efa78ed8153ab902da\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\9d4e8711d2a0014ad004fe2098ba2b52\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\9d4e8711d2a0014ad004fe2098ba2b52\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8eaf01f48ea32d45aaa5772e1518ebfd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8eaf01f48ea32d45aaa5772e1518ebfd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\01cd32ff70afedc32e17d3d2d4be0809\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\01cd32ff70afedc32e17d3d2d4be0809\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\6d14ec61eb92daf4b3ab15dd15aff892\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\6d14ec61eb92daf4b3ab15dd15aff892\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ffc1b337e8155f875c52fafdd4888d03\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ffc1b337e8155f875c52fafdd4888d03\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\f5fd1d6757f4ab58bb50f7df22032962\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\f5fd1d6757f4ab58bb50f7df22032962\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0861ce5c8696e5c38293132841287e4b\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0861ce5c8696e5c38293132841287e4b\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\29c015503b87182c307256cd37f3fa26\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\29c015503b87182c307256cd37f3fa26\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b35b1894a9fce75712add48141b7509e\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b35b1894a9fce75712add48141b7509e\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\6a54f4382ea3e8400023d048aed682d3\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\6a54f4382ea3e8400023d048aed682d3\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c722670f70dbae0fb3d6f9779215d702\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c722670f70dbae0fb3d6f9779215d702\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c8e43d1bcd7cab8d988b9822f0b6af1f\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\c8e43d1bcd7cab8d988b9822f0b6af1f\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ea445ceeecc3e263ef1c7f1f4e61ed2b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\ea445ceeecc3e263ef1c7f1f4e61ed2b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8dc79c452a4889414526a4714b02c0c3\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8dc79c452a4889414526a4714b02c0c3\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\cf567101a15e7803e42041fea106d50a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\cf567101a15e7803e42041fea106d50a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\e0ac47262719fbaf7797abd63181f1ea\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\e0ac47262719fbaf7797abd63181f1ea\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0fc38805eb116c45231906616b745cd5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\0fc38805eb116c45231906616b745cd5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b22ae23f90d66b4a500cda7906655d87\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\b22ae23f90d66b4a500cda7906655d87\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8eb668fcce87e6a5623b9a5472edaede\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8eb668fcce87e6a5623b9a5472edaede\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\100c37fba1bb5da58744b823c8c76ab3\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\100c37fba1bb5da58744b823c8c76ab3\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\7ffe9a5cdc00fbb55dc75c77acb65e27\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\7ffe9a5cdc00fbb55dc75c77acb65e27\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8461e321568c40b33ecb6e019312d5a9\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\8461e321568c40b33ecb6e019312d5a9\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\575f4b53105f8c768277e162dcd16d05\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Korev_ad\.gradle\caches\transforms-2\files-2.1\575f4b53105f8c768277e162dcd16d05\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		ADDED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\quraninfo\MyQuranFan\app\src\main\AndroidManifest.xml
